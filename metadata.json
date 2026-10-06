@@ -1,0 +1,6 @@
+{
+  "name": "SeikoTV",
+  "description": "Plataforma cinematográfica de streaming de anime y series con reproducción Media3 ExoPlayer, descargas offline y sincronización con Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

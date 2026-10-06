@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeikoTV</string>
+    <string name="download_notification_channel_name">Descargas de SeikoTV</string>
+    <string name="download_notification_description">Notificaciones y progreso de descargas offline</string>
+</resources>
